@@ -1,0 +1,101 @@
+Employee_ID,Name,Department,Designation,Salary,Joining_Date,Experience_Years
+1001,Jivika Sandhu,Marketing,Brand Manager,33929,2021-10-25,4
+1002,Vardaniya Sethi,IT,System Analyst,76110,2017-09-12,8
+1003,Pihu Kade,Finance,Finance Manager,71934,2024-08-04,1
+1004,Anya Loyal,Finance,Finance Manager,88437,2017-06-04,8
+1005,Uthkarsh Yohannan,HR,HR Manager,97616,2018-08-07,7
+1006,Madhup Mangal,IT,Data Engineer,115008,2023-12-05,2
+1007,Dhanuk Saran,Operations,Operations Executive,118289,2021-02-14,4
+1008,Indrajit Baral,IT,Developer,56298,2024-11-26,1
+1009,Rhea Ghosh,Operations,Operations Executive,112394,2025-04-17,0
+1010,Hazel Devan,HR,HR Manager,55350,2025-06-25,0
+1011,Ritvik Ratta,HR,HR Manager,117932,2022-06-20,3
+1012,Tejas Keer,HR,HR Manager,49424,2020-08-23,5
+1013,Zaina Dugar,IT,Data Engineer,67765,2019-10-09,6
+1014,Hansh Bhalla,Operations,Operations Manager,110814,2015-12-21,10
+1015,Anika Setty,IT,Developer,87384,2024-07-02,1
+1016,Eva Saran,IT,System Analyst,42934,2019-01-17,6
+1017,Himmat Handa,Operations,Operations Manager,32758,2017-08-22,8
+1018,Aarush Agate,Operations,Operations Manager,104838,2021-08-20,4
+1019,Reyansh Dugar,HR,HR Manager,53647,2021-01-20,4
+1020,Fateh Kaur,IT,Developer,56326,2025-05-16,0
+1021,Prerak Sem,Operations,Operations Manager,58944,2020-08-07,5
+1022,Nirvaan Rege,Finance,Accountant,70307,2021-01-04,4
+1023,Tushar Dara,Finance,Analyst,83289,2018-11-14,7
+1024,Sumer Keer,Operations,Operations Manager,111509,2019-09-30,6
+1025,Yuvaan Anand,IT,System Analyst,75175,2017-02-16,8
+1026,Mahika Chaudhari,Marketing,Brand Manager,87354,2018-01-15,7
+1027,Rhea Sachdeva,Operations,Operations Manager,105981,2021-03-05,4
+1028,Aradhya Bhasin,Finance,Accountant,119654,2021-10-28,4
+1029,Ojas Solanki,HR,HR Executive,108918,2022-11-28,3
+1030,Darshit Reddy,IT,Data Engineer,51412,2016-01-29,9
+1031,Vaibhav Halder,IT,System Analyst,115081,2018-09-04,7
+1032,Parinaaz Desai,Marketing,Marketing Executive,85609,2024-06-12,1
+1033,Oorja Shanker,Marketing,Brand Manager,44844,2025-03-08,0
+1034,Vedika Viswanathan,Marketing,Brand Manager,89184,2017-12-02,8
+1035,Inaaya  Buch,Marketing,Marketing Executive,33799,2020-05-30,5
+1036,Saksham Golla,Marketing,Brand Manager,54834,2016-05-16,9
+1037,Tarini Bakshi,Sales,Sales Manager,54695,2017-06-17,8
+1038,Aarush Sankaran,HR,HR Executive,102815,2020-08-17,5
+1039,Saanvi Kala,Operations,Operations Executive,78316,2024-08-07,1
+1040,Rasha Sharma,Operations,Operations Manager,48093,2022-03-14,3
+1041,Prisha Dyal,HR,HR Manager,64093,2025-06-09,0
+1042,Oorja Ganesh,Marketing,Marketing Executive,73656,2023-06-16,2
+1043,Saksham Karan,Operations,Operations Manager,50151,2022-03-13,3
+1044,Reyansh Khare,Sales,Sales Executive,89437,2024-01-01,1
+1045,Lavanya Chandran,HR,HR Executive,62523,2020-06-05,5
+1046,Anaya Ramakrishnan,Sales,Sales Executive,112041,2025-02-26,0
+1047,Gatik Kunda,Marketing,Marketing Executive,42266,2020-12-11,5
+1048,Anvi Wagle,Finance,Analyst,38129,2019-03-31,6
+1049,Amani Khatri,Operations,Operations Executive,82822,2020-07-21,5
+1050,Rati Singh,Sales,Sales Executive,88249,2019-02-10,6
+1051,Yasmin Subramanian,IT,Data Engineer,57224,2025-03-01,0
+1052,Piya De,Sales,Sales Manager,38513,2023-01-16,2
+1053,Mohanlal Deshmukh,HR,HR Executive,92639,2025-09-03,0
+1054,Krish Chandran,Sales,Sales Manager,32238,2024-11-26,1
+1055,Taimur Vora,Sales,Sales Manager,102266,2020-01-26,5
+1056,Nayantara Mall,HR,HR Executive,58120,2023-09-29,2
+1057,Samar Mander,Marketing,Brand Manager,40060,2016-04-28,9
+1058,Anya Chada,Operations,Operations Manager,105210,2015-10-12,10
+1059,Vidur Chauhan,Marketing,Brand Manager,101915,2019-08-10,6
+1060,Samarth Krish,Finance,Accountant,52314,2016-07-05,9
+1061,Lakshay Kata,Sales,Sales Executive,96905,2019-07-16,6
+1062,Dharmajan Dugar,IT,Developer,118352,2016-12-28,9
+1063,Samar Tandon,Sales,Sales Manager,56684,2025-06-17,0
+1064,Divit Deo,Sales,Sales Executive,92744,2022-08-27,3
+1065,Miraya Tiwari,Operations,Operations Executive,57800,2018-09-13,7
+1066,Kabir Brar,Marketing,Brand Manager,68611,2020-09-09,5
+1067,Vedika Varkey,Marketing,Marketing Executive,105902,2016-02-08,9
+1068,Tarini Sankaran,Finance,Analyst,107320,2025-05-11,0
+1069,Advik Viswanathan,Sales,Sales Executive,68236,2018-02-04,7
+1070,Anvi Sunder,Operations,Operations Manager,105193,2023-09-15,2
+1071,Saksham Sura,HR,HR Executive,113281,2021-03-18,4
+1072,Aayush Som,Sales,Sales Manager,112606,2022-08-25,3
+1073,Pari Dayal,HR,HR Manager,61277,2018-11-03,7
+1074,Anaya Mander,HR,HR Executive,37699,2023-12-30,2
+1075,Aniruddh Ranganathan,Operations,Operations Manager,36673,2023-07-14,2
+1076,Ishaan Gala,Finance,Finance Manager,36754,2023-05-06,2
+1077,Amira Chanda,Operations,Operations Executive,76793,2024-11-30,1
+1078,Aarna Batta,Marketing,Marketing Executive,103188,2021-11-19,4
+1079,Prerak Balakrishnan,Marketing,Marketing Executive,52215,2017-03-13,8
+1080,Samarth Chatterjee,Finance,Finance Manager,107928,2016-08-15,9
+1081,Priyansh Virk,Marketing,Brand Manager,109426,2021-10-16,4
+1082,Drishya Chakraborty,Sales,Sales Manager,106920,2022-07-06,3
+1083,Shamik Iyengar,Operations,Operations Executive,43539,2018-10-04,7
+1084,Badal Thaker,HR,HR Executive,35793,2022-03-08,3
+1085,Anay Borra,Sales,Sales Manager,85446,2024-02-27,1
+1086,Samar Sehgal,Marketing,Marketing Executive,115482,2021-07-07,4
+1087,Jivika Butala,Operations,Operations Manager,86995,2015-10-26,10
+1088,Charvi Kapoor,Sales,Sales Manager,37952,2020-10-26,5
+1089,Trisha Sangha,Finance,Analyst,38872,2021-10-25,4
+1090,Divit Acharya,Operations,Operations Executive,59305,2018-06-28,7
+1091,Indranil Thakkar,Finance,Accountant,73226,2023-06-07,2
+1092,Charvi Date,Finance,Finance Manager,76509,2021-12-22,4
+1093,Ojas Salvi,IT,System Analyst,46623,2017-06-13,8
+1094,Seher Dugar,IT,Developer,80767,2024-05-28,1
+1095,Darshit Rout,Sales,Sales Manager,41239,2022-01-02,3
+1096,Aniruddh Lad,Sales,Sales Manager,114588,2019-10-01,6
+1097,Anika Bahl,Operations,Operations Manager,91219,2025-03-15,0
+1098,Tarini Sinha,Operations,Operations Executive,38653,2019-02-18,6
+1099,Vihaan Magar,Sales,Sales Executive,35807,2018-08-13,7
+1100,Saira Sethi,HR,HR Executive,53041,2017-11-09,8
